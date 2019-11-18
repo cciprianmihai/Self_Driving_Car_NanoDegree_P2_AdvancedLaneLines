@@ -159,7 +159,7 @@ The generated points where mapped back to the image space using the inverse tran
 The project video was processed and the results at [video_output](./video_output/project_video.mp4)
 
 #### Youtube video
-[![Youtube video](https://img.youtube.com/vi/SOz1fBzZn1A/0.jpg)](https://www.youtube.com/watch?v=SOz1fBzZn1A)
+[![Youtube video](https://img.youtube.com/vi/SOz1fBzZn1A/0.jpg)](https://youtu.be/MjHFrF5vN1o)
 
 ### Discussion
 
